@@ -1,0 +1,28 @@
+D:\test\try2\try2\bin\Debug\MetroFramework.Design.dll
+D:\test\try2\try2\bin\Debug\MetroFramework.dll
+D:\test\try2\try2\bin\Debug\MetroFramework.Fonts.dll
+D:\test\try2\try2\bin\Debug\MongoDB.Bson.dll
+D:\test\try2\try2\bin\Debug\MongoDB.Driver.Core.dll
+D:\test\try2\try2\bin\Debug\MongoDB.Driver.dll
+D:\test\try2\try2\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\test\try2\try2\bin\Debug\MongoDB.Bson.xml
+D:\test\try2\try2\bin\Debug\MongoDB.Driver.xml
+D:\test\try2\try2\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\test\try2\try2\obj\Debug\Infiniti Motors.csprojResolveAssemblyReference.cache
+D:\test\try2\try2\obj\Debug\Infiniti Motors.csproj.GenerateResource.Cache
+D:\test\try2\try2\bin\Debug\Infiniti Motors.exe.config
+D:\test\try2\try2\obj\Debug\Infiniti_Motors.Properties.Resources.resources
+D:\test\try2\try2\bin\Debug\Infiniti Motors.exe
+D:\test\try2\try2\bin\Debug\Infiniti Motors.pdb
+D:\test\try2\try2\obj\Debug\Infiniti Motors.exe
+D:\test\try2\try2\obj\Debug\Infiniti Motors.pdb
+D:\test\try2\try2\obj\Debug\Infiniti_Motors.Form2.resources
+D:\test\try2\try2\obj\Debug\Infiniti_Motors.Form3.resources
+D:\test\try2\try2\obj\Debug\Infiniti_Motors.Form4.resources
+D:\test\try2\try2\obj\Debug\Infiniti_Motors.Form1.resources
+D:\test\try2\try2\bin\Debug\Transitions.dll
+D:\test\try2\try2\obj\Debug\Infiniti_Motors.Form5.resources
+D:\test\try2\try2\bin\Debug\Infiniti Motors.exe.manifest
+D:\test\try2\try2\bin\Debug\Infiniti Motors.application
+D:\test\try2\try2\obj\Debug\Infiniti Motors.exe.manifest
+D:\test\try2\try2\obj\Debug\Infiniti Motors.application
