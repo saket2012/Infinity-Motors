@@ -35,6 +35,7 @@ namespace Infiniti_Motors
         public void Delayed(int delay, Action action)
         {
             Timer timer = new Timer();
+            
             timer.Interval = delay;
             timer.Tick += (s, e) =>
             {
